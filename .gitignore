@@ -1,5 +1,4 @@
 #ignore these files
-#ignore these files
 *.swp
 *~
 *.lock
@@ -10,3 +9,4 @@ npm-debug.log
 *.o
 *.tmp
 .idea/*
+/.idea/
